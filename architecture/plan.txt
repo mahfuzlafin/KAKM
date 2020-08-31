@@ -1,0 +1,4 @@
+name: KAKM
+logo: null
+stack: flutter, firebase
+screen: dashboard, notice board, results, teachers, developer, splash
